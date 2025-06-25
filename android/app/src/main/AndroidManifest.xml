@@ -102,9 +102,9 @@
                 <data android:scheme="http" />
                 <data android:scheme="https" />
                 <!-- Add here admin panel domain-->
-                <data android:host="egrocer.wrteam.me" />
-                <data android:host="egrocerweb.wrteam.me" />
-                <data android:host="e-grocer-nextjs.vercel.app" />
+                <data android:host="balajimobile.digibharatsoft.in" />
+                <data android:host="balajimobile.digibharatsoft.in" />
+                <data android:host="balajimobile.digibharatsoft.in" />
             </intent-filter>
             <!-- Deep Links Ends-->
 
