@@ -7,10 +7,10 @@ enum ThemeList { systemDefault, light, dark }
 class Constant {
   //Add your admin panel url here with postfix slash eg. https://www.admin.panel/
   // TODO ADMIN PANEL URL HERE
-  static String hostUrl = "https://egrocer.wrteam.me/";
+  static String hostUrl = "https://balajimobile.digibharatsoft.in/";
 
   // ADD WEBSITE URL OR ADMIN PANEL URL HERE
-  static String websiteUrl = "https://egrocerweb.wrteam.me/";
+  static String websiteUrl = "https://balajimobile.digibharatsoft.in/";
 
   static String baseUrl = "${hostUrl}customer/";
 
