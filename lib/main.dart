@@ -198,7 +198,7 @@ class MyAppState extends State<MyApp> {
                         initialRoute: "/",
                         scrollBehavior: ScrollGlowBehavior(),
                         debugShowCheckedModeBanner: false,
-                        title: "egrocer",
+                        title: "BalajiMobile",
                         theme: ColorsRes.setAppTheme().copyWith(
                           textTheme:
                               GoogleFonts.latoTextTheme(Theme.of(context).textTheme),
