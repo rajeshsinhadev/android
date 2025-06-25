@@ -135,7 +135,7 @@ class ColorsRes {
       surface: bgColorLight,
       brightness: Brightness.light,
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: mainTextColor,
       surfaceTintColor: mainTextColor,
     ),
@@ -160,7 +160,7 @@ class ColorsRes {
       surface: bgColorDark,
       brightness: Brightness.dark,
     ),
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData(
       color: mainTextColor,
       surfaceTintColor: mainTextColor,
     ),
